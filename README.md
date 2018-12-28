@@ -16,3 +16,13 @@ Notes
 -----
 To change ownership of folder (Fix errors related to permission)
 sudo chown -R [owner] [folder]
+
+Repository   : GIT
+IDE          : Visual Studio Code
+Automation   : node
+Transpiler   : Babel
+Bundler      : Webpack
+Linting      : eslint
+Unit Testing : mocha
+CI Server    : Travis CI (Linux) - Appveyor (Windows)
+* https://travis-ci.org
