@@ -26,3 +26,4 @@ Linting      : eslint
 Unit Testing : mocha
 CI Server    : Travis CI (Linux) - Appveyor (Windows)
 * https://travis-ci.org
+* https://ci.appveyor.com/
