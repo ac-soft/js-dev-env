@@ -27,3 +27,6 @@ Unit Testing : mocha
 CI Server    : Travis CI (Linux) - Appveyor (Windows)
 * https://travis-ci.org
 * https://ci.appveyor.com/
+
+Error Logging : TrackJS
+* This section is skipped due to pricing Module 13 - Error Loggin
